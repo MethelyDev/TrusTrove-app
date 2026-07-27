@@ -2,7 +2,6 @@
 
 This document provides a high-level overview of the TrusTrove system architecture, describing the components, their responsibilities, and the exact data flow for invoice creation.
 
----
 
 ## 1. System Overview
 
